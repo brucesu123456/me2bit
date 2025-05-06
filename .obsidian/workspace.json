@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/笔记/🛠️ 开发/为 DuckDB WASM 制作 Drizzle ORM Driver.md",
+                "file": "backup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为 DuckDB WASM 制作 Drizzle ORM Driver"
+              "title": "backup"
             }
           }
         ],
@@ -55,10 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -85,7 +86,7 @@
               "type": "starred",
               "state": {},
               "icon": "lucide-file",
-              "title": "插件不再活动"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -105,7 +106,7 @@
               "type": "recent-files",
               "state": {},
               "icon": "lucide-file",
-              "title": "插件不再活动"
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -171,7 +172,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-file",
-              "title": "插件不再活动"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -193,7 +194,7 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "插件不再活动"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -203,7 +204,7 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "插件不再活动"
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -270,63 +271,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian42-brat:BRAT": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "ea65bc0da501beda",
   "lastOpenFiles": [
-    "zh-CN/笔记/🧱 基础设施/容器既没有 netstat 和 lsof 也不是 root 时如何排查网络？手动解析 procfs！.md",
-    "zh-CN/笔记/🛠️ 开发/为 DuckDB WASM 制作 Drizzle ORM Driver.md",
-    "zh-CN/笔记/🛠️ 开发/在容器内如何列出正在被监听的端口或者打开的文件？.md",
-    "zh-CN/笔记/📟 终端/软件/容器化/列出 Docker CLI 当前登录的域名.md",
-    "zh-CN/笔记/🛠️ 开发/🗂 数据库/关系型数据库 Relational DB/🐣 DuckDB/各种语句.md",
-    "zh-CN/笔记/🤖 AI 人工智能/Neuro/AI VTuber.md",
-    "zh-CN/笔记/🛠️ 开发/🗂 数据库/关系型数据库 Relational DB/🐣 DuckDB",
-    "zh-CN/笔记/🤖 AI 人工智能/Neuro/Archive.zip",
-    "笔记/🧩 开源贡献/Kubernetes/CNCF Traval Funding.md",
-    "笔记/🤖 AI 人工智能/配置 CUDA 的一万种方法.md",
-    "笔记/🛠️ 开发/用 CSS 画一本好看的可以交互的 3D 书.md",
-    "node_modules/@vueuse",
-    "node_modules/@antfu",
-    "vite.config.ts.timestamp-1728465284690-0e28b7c319039.mjs",
-    "vite.config.ts.timestamp-1728464096252-aa8904c364146.mjs",
-    "pnpm-lock.yaml.2653060370",
-    "node_modules/@types",
-    "node_modules/@nolebase",
-    "node_modules/@netlify",
-    "笔记/🛠️ 开发/JS Framework Benchmark 命令速查.md",
-    "笔记/🛠️ 开发/Another Custom Directive API in Vue and Vapor.md",
-    "笔记/🛠️ 开发/因为 dayjs 不能轻松导入全部的 i18n 语言而换用了 date-fns.md",
-    "笔记/🛠️ 开发/用兼容性更好，体积更小的 Rive 渲染和播放 Lottie 动画.md",
-    "笔记/📦 收集箱/🐙 GitHub 项目/maplibre/index.md",
-    "编目 Catalog/文章/理解什么是 CRDT.md",
-    "笔记/🪄 Vtuber/在 macOS 上不同的 VTuber 直播方案.md",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231212122507.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231212122502.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231209163759.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231209163219.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231209163146.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231209163110.jpg",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231208233938.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231208233927.png",
-    "笔记/🪄 Vtuber/assets/Pasted image 20231208233632.png",
-    "笔记/🧱 基础设施/🛜 OpenWRT/assets/Pasted image 20240520003337.png",
-    "笔记/🧱 基础设施/🛜 OpenWRT/从 openclash 迁移到 sing-box.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/开发一个 Kubernetes Controller.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/将 TrueNAS 共享存储连接到 K8s 集群.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/kubectl 速查表.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/Pod 错误排查之.md",
-    "笔记/🧱 基础设施/云上集群的 GPU.md",
-    "笔记/🧮 数学/空洞的想法.md",
-    "笔记/🧩 开源贡献/Kubernetes/开始之前.md",
-    "笔记/🤖 AI 人工智能/领域/音频/配置和运行 ChatTTS.md",
-    "笔记/🤖 AI 人工智能/领域/音频/在 macOS 上配置 GPT-SoVITS-WebUI.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🏠 Clickhouse/什么是 Clickhouse？.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/游乐场/用户和评论.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/游乐场/物种关系.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/assets/use-helm-to-install-nebulagraph-cluster-on-dev-and-testing-device-screenshot-5.png",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/assets/use-helm-to-install-nebulagraph-cluster-on-dev-and-testing-device-screenshot-4.png",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/assets/use-helm-to-install-nebulagraph-cluster-on-dev-and-testing-device-screenshot-3.png",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/assets/use-helm-to-install-nebulagraph-cluster-on-dev-and-testing-device-screenshot-2.png",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/assets/use-helm-to-install-nebulagraph-cluster-on-dev-and-testing-device-screenshot-1.png",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/assets/image_20211125141616.png",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/命令和语句/建库.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/命令和语句/常用控制台指令.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/命令和语句/创建用户和更改用户密码.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/命令和语句/分配权限.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/命令和语句/SEQUENCE 相关操作.md",
+    "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets/figure-5-0604bf5.gif",
+    "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets/figure-4-0604bf4.gif",
+    "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets/figure-3-0604bf3.gif",
+    "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets/figure-2-0604bf2.gif",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/游乐场",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/新建标签.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/新建图空间.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/开发工具 Nebula Graph Studio 和 Nebula Explorer.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/在开发用的测试集群上用 Helm 安装 NebulaGraph.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/使用 Docker 安装.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/assets",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/📊 MySQL/快速查询.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/📊 MySQL/强制设定为 Unique 索引.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/📊 MySQL/MySQL 规范.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/📊 MySQL/index.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/检查数据库和表的空间占用大小.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/时间类型的互相转换.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/国际化查询中将查询得到的 Object 数组转换为 language_code 为键的 Object.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/命令和语句",
+    "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets",
+    "zh-CN/笔记/0-开发/🧮 算法/HashLife/HashLife.md",
+    "zh-CN/笔记/0-开发/🟢 持续集成 持续交付 CICD/GitHub Actions/仓库内的 GitHub Actions 工作流使用 GitHub Actions Bot 来提交.md",
+    "zh-CN/笔记/0-开发/🟢 持续集成 持续交付 CICD/GitHub Actions/assets",
+    "zh-CN/笔记/0-开发/🟢 持续集成 持续交付 CICD/GitLab/配置 GitLab CI CD 自动部署.md",
+    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/📊 MySQL",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL",
+    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🏠 Clickhouse",
+    "zh-CN/笔记/0-开发/🕸 网络/WireGuard VPN/WireGuard 服务端配置.md",
+    "zh-CN/笔记/0-开发/🕸 网络/WireGuard VPN/WireGuard 搭配 dnsmasq 实现内网自定义解析.md",
+    "zh-CN/笔记/0-开发/🕸 网络/WireGuard VPN/WireGuard 安装.md",
+    "zh-CN/笔记/0-开发/🕸 网络/assets/dnsmasq-setup.cast",
     "未命名.canvas"
   ]
 }
