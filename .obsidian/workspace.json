@@ -266,6 +266,7 @@
   },
   "active": "8b8974485c5430a1",
   "lastOpenFiles": [
+    "public/通用规范.txt~",
     "public/通用规范.txt",
     "_tmp_20268_88cc613ace9ad7a2d23bbca5a9016a68",
     "zh-CN/笔记/1-AI/cursor-使用.md",
@@ -311,7 +312,6 @@
     "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/检查数据库和表的空间占用大小.md",
     "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/时间类型的互相转换.md",
     "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/命令和语句",
-    "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets",
     "未命名.canvas"
   ]
 }
