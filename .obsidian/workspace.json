@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/笔记/🛠️ 开发/为 DuckDB WASM 制作 Drizzle ORM Driver.md",
+                "file": "zh-CN/笔记/1-AI/cursor-使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为 DuckDB WASM 制作 Drizzle ORM Driver"
-            }
-          },
-          {
-            "id": "ea65bc0da501beda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "backup"
+              "title": "cursor-使用"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,8 +264,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea65bc0da501beda",
+  "active": "8b8974485c5430a1",
   "lastOpenFiles": [
+    "public/Pasted image 20250506215225.png",
+    "Pasted image 20250506214816.png",
+    "zh-CN/笔记/1-AI/cursor-使用.md~",
+    "zh-CN/笔记/🐔 免费浪漫/什么是适合ADHD的工作？.md",
+    "zh-CN/笔记/🐔 免费浪漫/为他人而写作，但也更为了自己而写作.md",
+    "zh-CN/笔记/🐔 免费浪漫/免费浪漫.md",
+    "zh-CN/笔记/1-AI/cursor-使用.md",
+    "zh-CN/笔记/☀️ 生活/🏠 租房/租房流程.md",
+    "zh-CN/笔记/1-AI",
+    "backup.md",
     "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🏠 Clickhouse/什么是 Clickhouse？.md",
     "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/游乐场/用户和评论.md",
     "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/游乐场/物种关系.md",
@@ -298,7 +293,6 @@
     "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets/figure-5-0604bf5.gif",
     "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets/figure-4-0604bf4.gif",
     "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets/figure-3-0604bf3.gif",
-    "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets/figure-2-0604bf2.gif",
     "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/游乐场",
     "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/新建标签.md",
     "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/新建图空间.md",
@@ -312,21 +306,12 @@
     "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/📊 MySQL/index.md",
     "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/检查数据库和表的空间占用大小.md",
     "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/时间类型的互相转换.md",
-    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/国际化查询中将查询得到的 Object 数组转换为 language_code 为键的 Object.md",
     "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/命令和语句",
     "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets",
-    "zh-CN/笔记/0-开发/🧮 算法/HashLife/HashLife.md",
-    "zh-CN/笔记/0-开发/🟢 持续集成 持续交付 CICD/GitHub Actions/仓库内的 GitHub Actions 工作流使用 GitHub Actions Bot 来提交.md",
     "zh-CN/笔记/0-开发/🟢 持续集成 持续交付 CICD/GitHub Actions/assets",
-    "zh-CN/笔记/0-开发/🟢 持续集成 持续交付 CICD/GitLab/配置 GitLab CI CD 自动部署.md",
     "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph",
     "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/📊 MySQL",
     "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL",
-    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🏠 Clickhouse",
-    "zh-CN/笔记/0-开发/🕸 网络/WireGuard VPN/WireGuard 服务端配置.md",
-    "zh-CN/笔记/0-开发/🕸 网络/WireGuard VPN/WireGuard 搭配 dnsmasq 实现内网自定义解析.md",
-    "zh-CN/笔记/0-开发/🕸 网络/WireGuard VPN/WireGuard 安装.md",
-    "zh-CN/笔记/0-开发/🕸 网络/assets/dnsmasq-setup.cast",
     "未命名.canvas"
   ]
 }
