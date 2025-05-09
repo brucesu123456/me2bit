@@ -1,3 +1,9 @@
+.*.swp
+.*.swo
+.*.swn
+
+*.*~
+
 .Trash/
 .trash/
 .DS_Store

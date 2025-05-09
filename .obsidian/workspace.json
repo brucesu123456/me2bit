@@ -266,6 +266,9 @@
   },
   "active": "8b8974485c5430a1",
   "lastOpenFiles": [
+    "zh-CN/笔记/1-AI/通用规范.txz~",
+    "zh-CN/笔记/1-AI/通用规范.txt~",
+    "zh-CN/笔记/1-AI/通用规范.txt",
     "public/Pasted image 20250506215225.png",
     "Pasted image 20250506214816.png",
     "zh-CN/笔记/1-AI/cursor-使用.md~",
@@ -292,7 +295,6 @@
     "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/命令和语句/SEQUENCE 相关操作.md",
     "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets/figure-5-0604bf5.gif",
     "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets/figure-4-0604bf4.gif",
-    "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets/figure-3-0604bf3.gif",
     "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/游乐场",
     "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/新建标签.md",
     "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph/新建图空间.md",
@@ -310,8 +312,6 @@
     "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets",
     "zh-CN/笔记/0-开发/🟢 持续集成 持续交付 CICD/GitHub Actions/assets",
     "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph",
-    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/📊 MySQL",
-    "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL",
     "未命名.canvas"
   ]
 }
