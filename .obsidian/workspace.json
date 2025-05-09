@@ -266,6 +266,9 @@
   },
   "active": "8b8974485c5430a1",
   "lastOpenFiles": [
+    "public/通用规范.txt",
+    "_tmp_20268_88cc613ace9ad7a2d23bbca5a9016a68",
+    "zh-CN/笔记/1-AI/cursor-使用.md",
     "zh-CN/笔记/1-AI/通用规范.txz~",
     "zh-CN/笔记/1-AI/通用规范.txt~",
     "zh-CN/笔记/1-AI/通用规范.txt",
@@ -275,7 +278,6 @@
     "zh-CN/笔记/🐔 免费浪漫/什么是适合ADHD的工作？.md",
     "zh-CN/笔记/🐔 免费浪漫/为他人而写作，但也更为了自己而写作.md",
     "zh-CN/笔记/🐔 免费浪漫/免费浪漫.md",
-    "zh-CN/笔记/1-AI/cursor-使用.md",
     "zh-CN/笔记/☀️ 生活/🏠 租房/租房流程.md",
     "zh-CN/笔记/1-AI",
     "backup.md",
@@ -310,8 +312,6 @@
     "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/时间类型的互相转换.md",
     "zh-CN/笔记/0-开发/🗂 数据库/关系型数据库 Relational DB/🐘 PostgreSQL/命令和语句",
     "zh-CN/笔记/0-开发/🧮 算法/HashLife/assets",
-    "zh-CN/笔记/0-开发/🟢 持续集成 持续交付 CICD/GitHub Actions/assets",
-    "zh-CN/笔记/0-开发/🗂 数据库/图数据库 Graph DB/🌃 NebulaGraph",
     "未命名.canvas"
   ]
 }
