@@ -2,13 +2,13 @@
 layout: home
 sidebar: false
 
-title: Nólëbase
-titleTemplate: 记录回忆，知识和畅想的地方
+title: me2Bit
+titleTemplate: 硅基生存指南
 
 hero:
-  name: g~Nj$3J2^
-  text: 记录回忆，知识和畅想的地方
-  tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  name: me2bit
+  text: 硅生存指南
+  tagline: 硅基生存指南。。。。。。 
   image:
     src: /logo.svg
     alt: Vitest
@@ -18,10 +18,10 @@ hero:
       link: /笔记/index
     - theme: alt
       text: 加入 Discord 服务器
-      link: https://discord.gg/XuNFDcDZGj
+      link: https://discord.gg/brucesu123456
     - theme: alt
       text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
+      link: https://github.com/brucesu123456/me2bit
 
 features:
   - title: 多样的主题和内容
