@@ -209,6 +209,9 @@ export default defineConfig({
     },
     nav: [
       { text: '主页', link: '/' },
+      { text: 'me', link: '/me/' },
+      { text: 'AI', link: '/AI/' },
+      { text: '区块链', link: '/blockchain/' },
       { text: '笔记', link: '/笔记/' },
       { text: '最近更新', link: '/toc' },
     ],

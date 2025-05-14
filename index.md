@@ -7,7 +7,7 @@ titleTemplate: 硅基生存指南
 
 hero:
   name: me2bit
-  text: 硅生存指南
+  text: 硅基生存指南
   tagline: 硅基生存指南。。。。。。 
   image:
     src: /logo.svg
