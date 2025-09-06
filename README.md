@@ -2,7 +2,7 @@
 
 一个简约的博客/笔记网站模板，基于 markdown + obsidian + vitepress
 
-本仓库从[nolebase](https://github.com/nolebase/nolebase/) 精简而来，方便做 template，用于初始化仓库
+本仓库从[nolebase](https://github.com/nolebase/nolebase/) 精简而来，方便做 template，用于初始化仓库 , [演示网站1:](https://nolebase.ayaka.io/zh-CN/)
 
 演示网站： https://nolebase-template.vercel.app
 
@@ -22,6 +22,7 @@ pnpm docs:build # 构建网站发布所需要的资源, build之后在 .vitepres
 需要修改的内容：
 - 可以修改 metadata/index.ts 配置一下自己的网站信息
 - 再修改一下 index.md 配置一下首页
+- 修改 `.vitepress/config.ts`, 编辑菜单等信息 
 - 修改 `.vitepress/creators.ts`, 添加你的 github 地址，这样的话，在每个文章下面的贡献者那里就能够链接到你的 github 首页（否则只是一个名字，无法点击）。
 
 ## 部署
