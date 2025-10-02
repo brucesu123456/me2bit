@@ -210,9 +210,9 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: 'me', link: '/笔记/0_me/' },
-      { text: 'work', link: '/笔记/3_work/' },
-      { text: 'AI', link: '/笔记/1_AI/' },
+      { text: 'work', link: '/笔记/1_work/' },
       { text: '区块链', link: '/笔记/2_区块链/' },
+      { text: 'AI', link: '/笔记/3_AI/' },
       { text: '最近更新', link: '/toc' },
     ],
     sidebar,
